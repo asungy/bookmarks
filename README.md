@@ -1,18 +1,14 @@
 # Bookmarks
 
-## Database
-- [Online Database Design Tool](https://dbdiagram.io/)
-
-## Go
-- [Backend master class](https://dev.to/techschoolguru/series/7172)
-- [Roadmap](https://roadmap.sh/golang)
-
-## Rust
-- [Roadmap](https://roadmap.sh/rust)
-
-## Security
-- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
-
 ## Tooling
 - [Moonlander layout](https://configure.zsa.io/moonlander/layouts/z4e5a/latest/0)
 
+## Music
+- [Favorite cello playlist](https://www.youtube.com/watch?v=uJ-_MRNHhNU)
+
+## Uncategorized
+- [Go Roadmap](https://roadmap.sh/golang)
+- [Go backend master class](https://dev.to/techschoolguru/series/7172)
+- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
+- [Online Database Design Tool](https://dbdiagram.io/)
+- [Rust Roadmap](https://roadmap.sh/rust)
