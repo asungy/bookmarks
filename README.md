@@ -6,6 +6,7 @@
 
 ## Music
 - [Favorite cello playlist](https://www.youtube.com/watch?v=uJ-_MRNHhNU)
+- [Favorite coding playlist](https://youtu.be/b3TOVBNSJDA?si=wMpr0TuqRhvi_fQb)
 
 ## Uncategorized
 - [Go Roadmap](https://roadmap.sh/golang)
