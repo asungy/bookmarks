@@ -8,9 +8,9 @@
 - [Favorite cello playlist](https://www.youtube.com/watch?v=uJ-_MRNHhNU)
 - [Favorite coding playlist](https://youtu.be/b3TOVBNSJDA?si=wMpr0TuqRhvi_fQb)
 
+## Hacker News
+- [How to get into FAANG](https://news.ycombinator.com/item?id=26487160)
+
 ## Uncategorized
-- [Go Roadmap](https://roadmap.sh/golang)
-- [Go backend master class](https://dev.to/techschoolguru/series/7172)
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
-- [Online Database Design Tool](https://dbdiagram.io/)
-- [Rust Roadmap](https://roadmap.sh/rust)
+- [Developer Roadmaps](https://roadmap.sh/)
