@@ -9,7 +9,8 @@
 - [Favorite coding playlist](https://youtu.be/b3TOVBNSJDA?si=wMpr0TuqRhvi_fQb)
 
 ## Uncategorized
-- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [How to get into FAANG](https://news.ycombinator.com/item?id=26487160)
+- [Jeff Dean Numbers](https://gist.github.com/jboner/2841832)
+- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
 - [You should probably watch this once in a while](https://www.youtube.com/watch?v=DCbGM4mqEVw&pp=ygUNdGhpcyBpcyB3YXRlcg%3D%3D)
