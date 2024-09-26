@@ -13,9 +13,10 @@
 
 ## Good Tech Talks
 - [Advanced Napkin Math by Simon Eskildsen](https://youtu.be/IxkSlnrRFqc)
-- [DHH BB](https://youtu.be/mTa2d3OLXhg)
+- [The JVM vs WebAssembly: An In Depth Comparative Analysis By Shivansh Vij](https://youtu.be/qmVG_JLLq40)
 
 ## Uncategorized
+- [DHH BB](https://youtu.be/mTa2d3OLXhg)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [How to be employable](https://news.ycombinator.com/item?id=26487160)
 - [Jeff Dean Numbers](https://gist.github.com/jboner/2841832)
