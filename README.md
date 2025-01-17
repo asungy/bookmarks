@@ -5,20 +5,22 @@
 - [Voyager layout](https://configure.zsa.io/voyager/layouts/xmZjx/latest/0)
 
 ## Study Music
-- [All killer no filler](https://youtu.be/rYyjY-A7kE0)
+- [Favorite chillhop music](https://youtu.be/rYyjY-A7kE0)
 - [Favorite cello playlist](https://www.youtube.com/watch?v=uJ-_MRNHhNU)
-- [Probably what it feels like to take Adderall when coding](https://youtu.be/b3TOVBNSJDA)
-- [Relaxing and listening to Ayex go on a murder spree](https://youtu.be/lSNcBHfIveQ)
-- [When I miss the Shire](https://youtu.be/cqbhPJCjPfE)
+- [Favorite coding playlist](https://youtu.be/b3TOVBNSJDA)
 
 ## Good Tech Talks
 - [Advanced Napkin Math by Simon Eskildsen](https://youtu.be/IxkSlnrRFqc)
 - [The JVM vs WebAssembly: An In Depth Comparative Analysis By Shivansh Vij](https://youtu.be/qmVG_JLLq40)
 
-## Uncategorized
-- [DHH BB](https://youtu.be/mTa2d3OLXhg)
+## Dev stuff
+- [AWS Icons](https://aws-icons.com/)
 - [Developer Roadmaps](https://roadmap.sh/)
-- [How to be employable](https://news.ycombinator.com/item?id=26487160)
+- [Excalidraw](https://excalidraw.com/)
 - [Jeff Dean Numbers](https://gist.github.com/jboner/2841832)
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
+
+## Uncategorized
+- [DHH BB](https://youtu.be/mTa2d3OLXhg)
+- [How to be employable](https://news.ycombinator.com/item?id=26487160)
 - [You should probably watch this once in a while](https://www.youtube.com/watch?v=DCbGM4mqEVw&pp=ygUNdGhpcyBpcyB3YXRlcg%3D%3D)
