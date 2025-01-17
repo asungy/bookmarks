@@ -14,7 +14,8 @@
 - [The JVM vs WebAssembly: An In Depth Comparative Analysis By Shivansh Vij](https://youtu.be/qmVG_JLLq40)
 
 ## Dev stuff
-- [AWS Icons](https://aws-icons.com/)
+- [AWS Icons #1](https://aws-icons.com/)
+- [AWS Icons #2](https://app.diagrams.net/?splash=0&libs=aws4)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [Excalidraw](https://excalidraw.com/)
 - [Jeff Dean Numbers](https://gist.github.com/jboner/2841832)
